@@ -1,3 +1,4 @@
+#Pull in the RQR class
 require "rqrcode"
 
 #Prompt user for the type of QR code they want to generate
